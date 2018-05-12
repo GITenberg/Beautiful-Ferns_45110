@@ -1,0 +1,44 @@
+_repo: Beautiful-Ferns_45110
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Faxon, Charles Edward
+    alias: Faxon, C. E. (Charles Edward)
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '43107'
+    url: http://www.gutenberg.org/2009/agents/43107
+  - agent_name: Emerton, J. H. (James Henry)
+    aliases:
+    - Emerton, James Henry
+    - Emerton, James H.
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '41749'
+    url: http://www.gutenberg.org/2009/agents/41749
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Emerton
+covers:
+- cover_type: archival
+  image_path: 45110-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eaton, Daniel Cady
+    birthdate: 1834
+    deathdate: 1895
+    gutenberg_agent_id: '43106'
+    url: http://www.gutenberg.org/2009/agents/43106
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Cady_Eaton
+description: ''
+gutenberg_issued: '2014-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ferns -- United States'
+- !lcc 'QK'
+title: Beautiful Ferns
+url: http://www.gutenberg.org/ebooks/45110
